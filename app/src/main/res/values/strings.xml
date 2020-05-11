@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dfactor</string>
+    <string name="join_public_group_members_count">member_count</string>
+    <string name="join_public_group_friends_count">friends_count</string>
+    <string name="join">join</string>
+    <string name="tv_dfsync">DFSYNC</string>
+    <string name="tv_account">账号</string>
+    <string name="tv_pwd">密码</string>
+    <string name="tv_login">登录</string>
+    <string name="tv_forget">忘记密码？</string>
+</resources>
